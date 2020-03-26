@@ -1,6 +1,5 @@
 ---
 title: 'Origin Info'
-media_order: SnekLog_Reptiles_OriginInfo.jpg
 taxonomy:
     category:
         - docs
