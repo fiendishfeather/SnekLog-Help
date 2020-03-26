@@ -51,3 +51,6 @@ If the Mother is **not** in your SnekLog account, you can just type a name inste
 
 ####Father
 If the Father is **not** in your SnekLog account, you can just type a name instead for your records.
+
+####Clutch ID
+Enter the ID# of the clutch the animal came from if you want to keep it for your records or put on a Sales Certificate.
