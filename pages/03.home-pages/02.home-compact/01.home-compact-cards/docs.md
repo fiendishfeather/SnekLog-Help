@@ -1,6 +1,6 @@
 ---
 title: 'Cards [Compact Home]'
-media_order: 'balance-scale-right-solid.svg,broom-solid.svg,capsules-solid.svg,eye-slash-regular.svg,eye-slash-solid.svg,hamburger-solid.svg,hand-holding-solid.svg,money-bill-solid.svg,biohazard-solid.svg,HomeCompact_Card.jpg'
+media_order: 'balance-scale-right-solid.svg,broom-solid.svg,capsules-solid.svg,eye-slash-regular.svg,eye-slash-solid.svg,hamburger-solid.svg,hamburger.svg,hand-holding-solid.svg,money-bill-solid.svg,biohazard-solid.svg,HomeCompact_Card.jpg'
 taxonomy:
     category:
         - docs
@@ -26,6 +26,7 @@ Reminders are the little icons you will see under the "Last Fed" text. Each icon
 | Icon 	| Status |
 | ------ | ----------- |
 | ![](hamburger-solid.svg?resize=50,50&classes=margin-none)      		| Due for Food |
+| ![](hamburger.svg?resize=50,50&classes=margin-none)      				| Status set to "Fasting" & is NOT due for food |
 | ![](balance-scale-right-solid.svg?resize=50,50&classes=margin-none)   | Due for Weight Check |
 | ![](broom-solid.svg?resize=50,50&classes=margin-none)   				| Due for Cleaning |
 | ![](capsules-solid.svg?resize=50,50&classes=margin-none)     			| Due for Medication |
