@@ -1,6 +1,5 @@
 ---
 title: 'Food & Shed'
-media_order: SnekLog_Reptiles_FoodShed.jpg
 taxonomy:
     category:
         - docs
