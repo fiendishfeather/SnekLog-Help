@@ -26,6 +26,7 @@ Reminders are the little icons you will see under the "Last Fed" text. Each icon
 | Icon 	| Status |
 | ------ | ----------- |
 | ![](hamburger-solid.svg?resize=50,50&classes=margin-none)      		| Due for Food |
+| ![](hamburger.svg?resize=50,50&classes=margin-none)      				| Status set to "Fasting" & is NOT due for food |
 | ![](balance-scale-right-solid.svg?resize=50,50&classes=margin-none)   | Due for Weight Check |
 | ![](broom-solid.svg?resize=50,50&classes=margin-none)   				| Due for Cleaning |
 | ![](capsules-solid.svg?resize=50,50&classes=margin-none)     			| Due for Medication |
