@@ -17,8 +17,11 @@ Select from the list of Food Types that come with SnekLog or add your own in the
 Once you select a Food Type, the Food Size list will automatically only display related Food Sizes <br>
 IE: A Food Type of Rat Frozen will only show Food Sizes that begin with the word Rat. You can add your own Food Sizes in the [SnekLog Settings](https://help.sneklog.com/settings/sneklog-settings/food-sizes).
 
+####Animal Fasting
+Enable this for animals that are not eating reliabily. Having this enabled will use "Refused Feed" to reset the "Feeding Due" timer so you are not constantly reminded to feed the specific animal. It also shows a different icon on the home page.
+
 ####Feeding Interval
-The number of days between a Feeding Event logged via 'Quick Feed' and the default value for manually added feeding events. <br>
+The number of days between a Feeding Event logged via 'Quick Feed' and the default value for manually added feeding events.
 
 ####Food Count
 The number of Food items the reptile usually eats. This number is also used to calculate Food Weight if you choose to track it.
