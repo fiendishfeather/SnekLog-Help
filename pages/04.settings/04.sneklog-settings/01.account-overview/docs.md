@@ -23,7 +23,7 @@ Separator
 -->
 
 ###Theme
-Right now you can choose between a "Dark" and a "Light" theme the app will use when you are logged in.
+Right now you can choose between a "Dark" and a "Light" theme the app will use when you are logged in. More color palletes are likley to come in future updates.
 ![](SnekLog_Settings_Themes.jpg)
 
 ___
