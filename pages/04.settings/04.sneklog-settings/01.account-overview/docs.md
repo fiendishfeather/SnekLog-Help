@@ -1,6 +1,6 @@
 ---
 title: 'App Settings'
-media_order: Settings_App.jpg
+media_order: 'Settings_App.jpg,SnekLog_Settings_Themes.jpg'
 published: true
 taxonomy:
     category:
@@ -23,7 +23,8 @@ Separator
 -->
 
 ###Theme
-Right now, "Dark" is the only option but more themes are planned in the future. As they become available, previews & information on each theme will be found on this page.
+Right now you can choose between a "Dark" and a "Light" theme the app will use when you are logged in.
+![](SnekLog_Settings_Themes.jpg)
 
 ___
 
