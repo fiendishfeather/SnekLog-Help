@@ -10,4 +10,4 @@ taxonomy:
 
 # Settings
 
-Basic overview of the SnekLog Application & Account Settings
+Basic overview of the SnekLog Application & Account Settings.
