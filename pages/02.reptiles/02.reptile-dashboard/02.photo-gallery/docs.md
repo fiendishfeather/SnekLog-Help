@@ -1,13 +1,13 @@
 ---
 title: 'Photo Gallery'
-media_order: Dashboard_Photos.jpg
+media_order: SnekLog_Reptiles_Dashboard_PhotoGallery.jpg
 child_type: docs
 taxonomy:
     category:
         - docs
 ---
 
-![](Dashboard_Photos.jpg)
+![](SnekLog_Reptiles_Dashboard_PhotoGallery.jpg)
 
 ##Photo Gallery
 SnekLog allows you to upload up to 10 photos per reptile so you can keep choose to keep visual track of your reptiles or just simply enjoy having pictures close at hand.
