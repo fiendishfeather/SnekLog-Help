@@ -11,7 +11,7 @@ SnekLog's User Interface is broken down into 3 main parts which are commonly ref
 
 ##Content Area
 The Content Area (or the Main Area) is where most of the work is done and it works exactly like any other web page.
-![](SnekLog_Introduction_UI_Quicklinks.jpg)
+![](SnekLog_Introduction_UI_Content.jpg)
 
 &nbsp;
 
