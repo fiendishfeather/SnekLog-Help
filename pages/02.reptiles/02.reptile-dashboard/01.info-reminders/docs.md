@@ -1,12 +1,12 @@
 ---
 title: 'Info & Reminders'
-media_order: Dashboard_Info-Reminders.jpg
+media_order: SnekLog_Reptiles_Dashboard_Reminders.jpg
 taxonomy:
     category:
         - docs
 ---
 
-![](Dashboard_Info-Reminders.jpg)
+![](SnekLog_Reptiles_Dashboard_Reminders.jpg)
 
 ##Overview
 The top section of the Reptile Dashboard is home to the basic information of your reptile as well as any upcoming reminders.
