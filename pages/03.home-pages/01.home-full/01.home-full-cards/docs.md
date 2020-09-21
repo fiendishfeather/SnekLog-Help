@@ -11,4 +11,4 @@ process:
 
 ![](HomeFull_Card.jpg)
 
-[plugin:content-inject](/partials/homepage-icon-table)
+[plugin:content-inject](/partials/homepages/homepage-icon-table)
