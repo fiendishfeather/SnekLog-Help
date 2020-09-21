@@ -11,4 +11,4 @@ process:
 
 ![](HomeCompact_Filter-Category.jpg)
 
-[plugin:content-inject](/partials/homepage-filters)
+[plugin:content-inject](/partials/homepages/homepage-filters)
