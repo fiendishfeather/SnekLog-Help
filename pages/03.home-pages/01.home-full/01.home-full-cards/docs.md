@@ -42,6 +42,8 @@ Reminders are the little icons you will see under the "Last Fed" text. Each icon
 
 Reminder icons are triggers by a customizable "Reminder Timer" value you can set in your "Account Settings" and they will only appear if the 'event due' time is less than the reminder timer. This way, you can see in advance when an event like a feeding is due so you can prepare all your feeder items in advance.
 
+Time sensitive reminder icons (Feeding, Cleaning, Weight & Medications) are also color coded. White means they are "upcoming" (based on your Reminder Timeer), Orange Means that they are "past due" and Red means they were "due" over 7 days ago.
+
 >>>>>> You can set the amount of time before the event is due that the icon shows up on the homepage under your 
 "Account Settings" (Default is 24 hours).
 
