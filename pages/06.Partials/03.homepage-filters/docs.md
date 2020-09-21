@@ -6,6 +6,7 @@ taxonomy:
 process:
     markdown: true
     twig: true
+published: true
 ---
 
 ###Overview
