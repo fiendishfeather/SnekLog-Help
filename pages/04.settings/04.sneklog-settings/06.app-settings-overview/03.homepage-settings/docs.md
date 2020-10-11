@@ -1,13 +1,13 @@
 ---
 title: 'Homepage Settings'
-media_order: 'SnekLog_Settings_Global.jpg,SnekLog_Settings_Themes.jpg'
+media_order: SnekLog_Settings_Homepage.jpg
 published: true
 ---
 
-![](SnekLog_Settings_Global.jpg)
+![](SnekLog_Settings_Homepage.jpg)
 
-###Global SnekLog Settings
-These settings are used by SnekLog as a whole and will effect almost everything you do. 
+###Homepage Settings
+These settings are used mostly by the SnekLog Homepage
 
 ___
 
