@@ -1,15 +1,13 @@
 ---
-title: 'Filters [Full Size Home]'
-media_order: HomeFull_Filter-Category.jpg
+title: 'Homepage Filters'
 taxonomy:
     category:
         - docs
 process:
     markdown: true
     twig: true
+published: true
 ---
-
-![](HomeFull_Filter-Category.jpg)
 
 ###Overview
 Filters can be set so you only see reptiles of certain status (Active, For Sale, Sold, etc), certain categories (Ball Python, Green Tree Python etc), reptiles in specific cages, and even reptiles who are due to eat, due for medications, and even ones who are in shed. To use them, simply just select the type of filter you want to apply and then select the filter from the list.

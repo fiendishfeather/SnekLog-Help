@@ -1,6 +1,6 @@
 ---
-title: 'Filters [Compact Home]'
-media_order: HomeCompact_Filter-Category.jpg
+title: 'Filters [Full Size Home]'
+media_order: HomeFull_Filter-Category.jpg
 taxonomy:
     category:
         - docs
@@ -9,6 +9,6 @@ process:
     twig: true
 ---
 
-![](HomeCompact_Filter-Category.jpg)
+![](HomeFull_Filter-Category.jpg)
 
 [plugin:content-inject](/partials/homepages/homepage-filters)
