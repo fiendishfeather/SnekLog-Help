@@ -15,3 +15,6 @@ visible: true
 
 ###Overview
 The App Settings page holds the most basic of your Application settings like Timezone, Theme, & Reminder Timer as well as your Home Page ([Full](https://help.sneklog.com/home-pages/home-full) or [Compact](https://help.sneklog.com/home-pages/home-compact)) configuration. 
+
+
+TEST TEST
