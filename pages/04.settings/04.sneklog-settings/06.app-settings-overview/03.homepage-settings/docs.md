@@ -31,4 +31,4 @@ ___
 ###Hide "Needs Feeding" While in Shed
 This option allows hide reptile that are either "In Shed" or that are in "Pre-Shed" from both the Homepage and the Feeding list. This is useful if you don't feed your reptiles while they are going through a Shed Cycle and if you don't want them to show up when you are using the "Needs Feed" filter.
 
->>>>>> If you have this setting enabled, you will have a notification pop up when applying the "Needs Feeding" filter telling you how many reptiles were hidden from the page.
+>>>>> If you have this setting enabled, you will have a notification pop up when applying the "Needs Feeding" filter telling you how many reptiles were hidden from the page.
