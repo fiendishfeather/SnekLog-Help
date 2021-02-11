@@ -1,12 +1,6 @@
 ---
 title: 'Homepage Icon Table'
-media_order: 'HomeFull_Card.jpg,balance-scale-right-solid.svg,broom-solid.svg,capsules-solid.svg,eye-slash-regular.svg,eye-slash-solid.svg,hamburger-solid.svg,hand-holding-solid.svg,money-bill-solid.svg,biohazard-solid.svg'
-taxonomy:
-    category:
-        - docs
-process:
-    markdown: true
-    twig: true
+media_order: 'balance-scale-right-solid.svg,biohazard-solid.svg,broom-solid.svg,capsules-solid.svg,eye-slash-regular.svg,eye-slash-solid.svg,hamburger.svg,hamburger-solid.svg,hand-holding-solid.svg,money-bill-solid.svg,syringe.svg'
 ---
 
 ###Overview
@@ -23,16 +17,17 @@ Reminders are the little icons you will see under the "Last Fed" text. Each icon
 
 | Icon 	| Status |
 | ------ | ----------- |
-| ![](hamburger-solid.svg?resize=50,50&classes=margin-none)      		| Due for Food |
-| ![](hamburger.svg?resize=50,50&classes=margin-none)      				| Status set to "Fasting" & is NOT due for food |
+| ![](hamburger-solid.svg?resize=50,50&classes=margin-none)      			| Due for Food |
+| ![](hamburger.svg?resize=50,50&classes=margin-none)      						| Status set to "Fasting" & is NOT due for food |
 | ![](balance-scale-right-solid.svg?resize=50,50&classes=margin-none)   | Due for Weight Check |
-| ![](broom-solid.svg?resize=50,50&classes=margin-none)   				| Due for Cleaning |
-| ![](capsules-solid.svg?resize=50,50&classes=margin-none)     			| Due for Medication |
-| ![](eye-slash-regular.svg?resize=50,50&classes=margin-none)     		| In "Pre-Shed" |
-| ![](eye-slash-solid.svg?resize=50,50&classes=margin-none)     		| In "Shed" |
-| ![](hand-holding-solid.svg?resize=50,50&classes=margin-none)      	| Status set to "Reserved" |
-| ![](money-bill-solid.svg?resize=50,50&classes=margin-none)      		| Status set to "For Sale" |
-| ![](biohazard-solid.svg?resize=50,50&classes=margin-none)      		| Status set to "Quarantine" <br> White: No Quarantine Duration set <br> Orange: Timer set and it's prior to the duration <br> Green: Timer is set and the duration is past |
+| ![](broom-solid.svg?resize=50,50&classes=margin-none)   						| Due for Cleaning |
+| ![](capsules-solid.svg?resize=50,50&classes=margin-none)     				| Due for Medication |
+| ![](syringe.svg?resize=50,50&classes=margin-none)     								| "On Medication" Reminder |
+| ![](eye-slash-regular.svg?resize=50,50&classes=margin-none)     			| In "Pre-Shed" |
+| ![](eye-slash-solid.svg?resize=50,50&classes=margin-none)     			| In "Shed" |
+| ![](hand-holding-solid.svg?resize=50,50&classes=margin-none)      		| Status set to "Reserved" |
+| ![](money-bill-solid.svg?resize=50,50&classes=margin-none)      			| Status set to "For Sale" |
+| ![](biohazard-solid.svg?resize=50,50&classes=margin-none)      			| Status set to "Quarantine" <br> White: No Quarantine Duration set <br> Orange: Timer set and it's prior to the duration <br> Green: Timer is set and the duration is past |
 
 <p class="table-footer">Icons are provided by of <a href="https://fontawesome.com/license">Font Awesome</a></p>
 

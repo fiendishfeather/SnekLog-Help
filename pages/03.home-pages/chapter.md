@@ -1,5 +1,5 @@
 ---
-title: 'Home Pages'
+title: 'Home Page'
 taxonomy:
     category:
         - docs
@@ -9,7 +9,7 @@ visible: true
 
 ### SnekLog Users Manual
 
-# Home Pages
+# Home Page
 
 Basic overview of both the Full Size and Compact home pages
 
